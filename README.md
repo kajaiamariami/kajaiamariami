@@ -1,4 +1,7 @@
-## Hi there 👋
+#About me
+###🦋 My understanding of coding is limited to editing Tumblr themes in 2014-2016. 
+###🌷 I'm currently learning how to code using DataCamp and Mimo.
+
 
 <!--
 **kajaiamariami/kajaiamariami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

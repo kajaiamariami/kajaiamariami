@@ -3,7 +3,7 @@
 
 🦋 My understanding of coding is limited to editing Tumblr themes in 2014-2016. <br>
 
-🧚🏻‍♀️ I got interested to learn some basics after I read in one of my psychology textbooks that for researches it's helpful to know Python or R, especially if they work with large data.<br>
+🧚🏻‍♀️ I decided to learn some basics after I read in one of my psychology textbooks that for researches it's helpful to know Python or R, especially if they work with large data.<br>
 
 🌱 I'm currently learning how to code using DataCamp and Mimo. <br>
 
